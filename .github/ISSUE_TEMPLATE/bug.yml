@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for testing the Rigly beta. Choosing **Send Feedback…** in Rigly's menu fills in the versions below for you.
-        Please check the [troubleshooting guide](https://getrigly.com/docs/troubleshooting/) and the [open issues](https://github.com/Rigly-Dev/rigly-releases/issues) first.
+        Please check the [troubleshooting guide](https://getrigly.com/docs/troubleshooting/) and the [open issues](https://github.com/Rigly-Dev/rigly-mac/issues) first.
   - type: textarea
     id: what-happened
     attributes:
